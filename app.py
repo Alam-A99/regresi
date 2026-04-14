@@ -11,7 +11,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Dashboard Regresi", layout="wide")
 
-st.title("📊 Dashboard Regresi Fleksibel + Upload Data + 3D Visualisasi")
+st.title("Dashboard Regresi & Visualisasi")
 
 # ======================
 # DATA DUMMY
